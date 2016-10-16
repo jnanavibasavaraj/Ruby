@@ -1,0 +1,36 @@
+http://www.w3schools.com/ =html
+https://www.youtube.com/watch?v=y3UH2gAhwPI =html
+
+
+https://www.youtube.com/watch?v=e6VYRVRoC40
+
+ =bootstrap3
+https://www.youtube.com/playlist?list=PL4cUxeGkcC9g_69kOfXICzT_hZ79_td99
+ =bootstrap
+https://www.youtube.com/playlist?list=PL4cUxeGkcC9g9Vh9MAA-XKnfJsWZnPZFw
+ =responsive web design
+
+https://www.youtube.com/playlist?list=PL4cUxeGkcC9i9Ae2D9Ee1RvylH38dKuET =javascript
+
+https://www.youtube.com/playlist?list=PL4cUxeGkcC9gQeDH6xYhmO-db2mhoTSrT =css
+
+https://www.youtube.com/playlist?list=PL4cUxeGkcC9hNUJ0j6ccnOAcJIPoTRpO4 =jquery
+
+
+
+https://www.youtube.com/playlist?list=PL4cUxeGkcC9jjVlRiZnRnAGFSCK3Lu_i-  =psd to html aand css
+
+
+
+https://www.youtube.com/playlist?list=PL4cUxeGkcC9iGYgmEd2dm3zAKzyCGDtM5 =css animation
+
+https://www.youtube.com/playlist?list=PL4cUxeGkcC9hudKGi5o5UiWuTAGbxiLTh =css positioning
+
+
+https://www.tutorialspoint.com/bootstrap/index.htm
+ 
+https://www.tutorialspoint.com/html5/index.htm
+https://www.tutorialspoint.com/html/index.htm
+https://www.tutorialspoint.com/javascript/index.htm
+
+https://www.tutorialspoint.com/jquery/index.htm
